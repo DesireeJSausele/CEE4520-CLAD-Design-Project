@@ -38,8 +38,14 @@ For the design aspect, we will follow the procedure outlined in Appendix E of �
 
 Our project’s focus on implementation will result in its successful application to Chris’s work. We look forward to gaining experience about what is useful in practice and applying our new python knowledge to a real world example.
 
-![pipelineCrossing](https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/Aerial_pipeline_crossing.png?raw=true)
+
+<div style = "text-align:center">
+<img
+align = "center"
+src="https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/Aerial_pipeline_crossing.png?raw=true" >
+
 Figure 1. Variables for Suspension Calculations
+</div>
 
 
 
@@ -99,15 +105,28 @@ $$V_{drystone} = \frac{W_{drystone}}{\delta}$$
 
 
 Appendix E is displayed below for reference:
-![AppendixE1](https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/appendixE1.png?raw=true)
 
-![AppendixE2](https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/appendixE2.png?raw=true)
 
-![AppendixE3](https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/appendixE3.png?raw=true)
+<img
+align = "center"
+src="https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/appendixE1.png?raw=true" >
 
-![AppendixE4](https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/appendixE4.png?raw=true)
+<img
+align = "center"
+src="https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/appendixE2.png?raw=true" >
 
-![AppendixE5](https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/appendixE5.png?raw=true)
+<img
+align = "center"
+src="https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/appendixE3.png?raw=true" >
+
+<img
+align = "center"
+src="https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/appendixE4.png?raw=true" >
+
+<img
+align = "center"
+src="https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/appendixE5.png?raw=true" >
+
 
 
 ```python
