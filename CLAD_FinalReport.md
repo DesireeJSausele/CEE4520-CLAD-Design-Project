@@ -40,10 +40,13 @@ Our project’s focus on implementation will result in its successful applicatio
 
 
 <div style = "text-align:center">
+
 <img
 align = "center"
 src="https://github.com/DesireeJSausele/CEE4520-CLAD-Design-Project/blob/master/Images/Aerial_pipeline_crossing.png?raw=true" >
+
 Figure 1. Variables for Suspension Calculations
+
 </div>
 
 
