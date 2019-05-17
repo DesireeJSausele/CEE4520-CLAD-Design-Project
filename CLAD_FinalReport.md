@@ -49,8 +49,8 @@ Inputs needed:
 Y=vertical sag of cable [m] - the cable must not sag so much that it will get snagged by floating debris or landslides; a sag of 8-10% of the span length is good if clearance permits
 Arbitrary selection of the cable - see chapter 11 of Handbook of Civil Engineering
 
-###Crossing calculations:
-####Define:
+### Crossing calculations:
+#### Define:
 
 * $\text{Wc=weight per length of cable [kg/m]}$
 * $\text{Wp=weight per length of pipe [kg/m]}$
